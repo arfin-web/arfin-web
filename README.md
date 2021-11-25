@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arfin-web&label=Profile%20views&color=0e75b6&style=flat" alt="arfin-web" /> </p>
 
-- 🔭 I’m currently working on **e-mart**
+- 🔭 I’m currently working on **e-mart Project**
 
 - 🌱 I’m currently learning **Redux, Nextjs, Material UI, MySQL**
 
