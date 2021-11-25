@@ -1,7 +1,7 @@
 ![Frontend Developer | MERN stack Developer](https://github.com/arfin-web/arfin-web/blob/main/Arfin%20noor%20rahman.png)
 
-## Hi there 👋, I'm Arfin Noor Rahman
-#### Frontend Developer | MERN stack Developer
+<h1 align="center">Hi there 👋, I'm Arfin Noor Rahman</h1>
+<h3 align="center">Hi there 👋, I'm Arfin Noor Rahman</h3>
 
 I am basically a Frontend Developer as well as MERN Stack Developer from Bangladesh.
 Contact With Me:
