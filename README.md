@@ -1,18 +1,21 @@
-![Frontend Developer | MERN stack Developer](https://github.com/arfin-web/arfin-web/blob/main/Arfin%20noor%20rahman.png)
+![Frontend Developer | UI Developer](https://cdn.sanity.io/images/ymxgha9c/production/73364b61fe0d1e1c66e8da7fdd75c940be8a1ebd-1918x1071.png?w=3840&q=75&fit=clip&auto=format)
 
-<h1 align="center">Hi there 👋, I'm Arfin Noor Rahman</h1>
-<h2 align="center">Frontend Developer | MERN Stack Developer</h2>
+<h1 align="center">Hi there 👋, This is Arfin Noor Rahman</h1>
+<h2 align="center">Frontend Developer | UI Developer</h2>
 
-### I am basically a Frontend Developer as well as MERN Stack Developer from Bangladesh.
-### Contact With Me:
+#### [Visit My Portfolio](https://arfins-planet.vercel.app/)
+
+### Key Skills: HTML5 / CSS3 / ES6 / BOOTSTRAP / TAILWIND CSS / REACT JS / NEXT JS
+
+### Connect With Me:
 #### Email: arfinnoorrahman12@gmail.com
 #### LinkedIn: https://www.linkedin.com/in/arfinnoorrahman/
 #### Facebook: https://www.facebook.com/arfin.rahman.146
 
-### Skills: HTML / CSS / JS / BOOTSTRAP / REACT / NODEJS / EXPRESSJS / MONGODB
+### As an enthusiastic Frontend Developer with appropriate knowledge and proficiency, I have the capability to produce high-quality, scalable, awesome UI, better user experience and high-performance web applications.
 
-- 🔭 I’m currently working on e-mart Project 
-- 🌱 I’m currently learning Redux, Nextjs, Material UI, MySQL 
+- 🔭 I’m currently working at ErrandBee as a part-time Frontend Developer
+- 🌱 I’m currently learning Redux, Material UI
 - 📫 How to reach me: arfinnoorrahman12@gmail.com 
 
 
