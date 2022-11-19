@@ -3,7 +3,9 @@
 <h1 align="center">Hi there 👋, This is Arfin Noor Rahman</h1>
 <h2 align="center">Frontend Developer | UI Developer</h2>
 
-#### [Visit My Portfolio](https://arfins-planet.vercel.app/)
+<h3 align="center">
+# [Visit My Portfolio](https://arfins-planet.vercel.app/)
+</h3>
 
 ### Key Skills: HTML5 / CSS3 / ES6 / BOOTSTRAP / TAILWIND CSS / REACT JS / NEXT JS
 
@@ -14,12 +16,11 @@
 
 ### As an enthusiastic Frontend Developer with appropriate knowledge and proficiency, I have the capability to produce high-quality, scalable, awesome UI, better user experience and high-performance web applications.
 
+:grey_question:
 - 🔭 I’m currently working at ErrandBee as a part-time Frontend Developer
-- 🌱 I’m currently learning Redux, Material UI
+- 🌱 I’m currently learning Redux and Material UI
 - 📫 How to reach me: arfinnoorrahman12@gmail.com 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arfin-web)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arfinnoorrahman/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/arfin.rahman.146)  
+ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arfin-web)](https://github.com/anuraghazra/github-readme-stats)
 
