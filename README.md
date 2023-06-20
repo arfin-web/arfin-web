@@ -1,12 +1,12 @@
  # Arfin Noor Rahman
 
-![Cover Image](![image](https://github.com/arfin-web/arfin-web/assets/66409290/57eba3e8-7c20-4f0a-ac73-7ce9e997192d)
+![Cover Image](![image](https://cdn.sanity.io/images/ymxgha9c/production/67e13847a34fd31d15192fb3b1755b958c47e8a7-1584x396.png)
 )
 
 ## 👨‍💻 Frontend Developer 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arfinnoor-blue.svg)]([www.linkedin.com/in/arfinnoorrahman](https://www.linkedin.com/in/arfinnoorrahman))
-[![Portfolio](https://img.shields.io/badge/Portfolio-arfinnoor.com-green.svg)]([https://www.arfinsplanet.com](https://arfins-planet.vercel.app/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arfinnoorrahman-blue.svg)]([www.linkedin.com/in/arfinnoorrahman](https://www.linkedin.com/in/arfinnoorrahman))
+[![Portfolio](https://img.shields.io/badge/Portfolio-arfinsplanet.com-green.svg)]([https://www.arfinsplanet.com](https://arfins-planet.vercel.app/))
 
 ---
 
