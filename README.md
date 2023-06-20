@@ -1,7 +1,6 @@
  # Arfin Noor Rahman
 
-![Cover Image](![image](https://cdn.sanity.io/images/ymxgha9c/production/67e13847a34fd31d15192fb3b1755b958c47e8a7-1584x396.png)
-)
+![Cover Image](![image(https://cdn.sanity.io/images/ymxgha9c/production/67e13847a34fd31d15192fb3b1755b958c47e8a7-1584x396.png))
 
 ## 👨‍💻 Frontend Developer 
 
