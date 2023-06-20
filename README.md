@@ -65,8 +65,7 @@
 
 ## Certifications
 
-- Certificate in Advanced React.js Development
-- Certificate in Web Design Fundamentals
+- Complete Web Development 
 
 ---
 
