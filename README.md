@@ -70,10 +70,6 @@
 
 ---
 
-## Portfolio
-
-Visit [www.arfinsplanet.com]([https://www.arfinnoor.com](https://arfins-planet.vercel.app/)) to explore a selection of my projects and learn more about my work.
-
 Passionate about creating exceptional web experiences, I am eager to contribute to your next exciting project. Let's connect and discuss how I can make a positive impact!
  
 
