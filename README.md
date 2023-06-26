@@ -21,7 +21,6 @@
 - Frameworks: React.js, Next.js
 - Libraries: Bootstrap, Tailwind CSS
 - Version Control: Git, GitHub
-- Tools: Visual Studio Code, Adobe Creative Suite
 
 ---
 
@@ -38,10 +37,9 @@
 
 ---
 
-## Education
+## Certifications
 
-**Bachelor of Arts in English Literature** \
-*2019-2022 | University of Dhaka: 7 College*
+- Complete Web Development
 
 ---
 
@@ -65,9 +63,10 @@
 
 ---
 
-## Certifications
+## Education
 
-- Complete Web Development 
+**Bachelor of Arts in English Literature** \
+*2019-2022 | University of Dhaka: 7 College*
 
 ---
 
