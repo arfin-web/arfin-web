@@ -1,5 +1,7 @@
  # Arfin Noor Rahman
 
+ ![Cover](https://cdn.sanity.io/images/ymxgha9c/production/67e13847a34fd31d15192fb3b1755b958c47e8a7-1584x396.png?w=3840&q=75&fit=clip&auto=format)
+
 ## 👨‍💻 Frontend Developer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arfinnoorrahman-blue.svg)]([www.linkedin.com/in/arfinnoorrahman](https://www.linkedin.com/in/arfinnoorrahman))
@@ -15,7 +17,7 @@
 
 ## Technical Proficiencies
 
-- Languages: HTML5, CSS3, JavaScript
+- Languages: HTML5, CSS3, JavaScript, TypeScript
 - Frameworks: React.js, Next.js
 - Libraries: Bootstrap, Tailwind CSS
 - Version Control: Git, GitHub
