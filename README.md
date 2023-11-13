@@ -1,72 +1,57 @@
- # Arfin Noor Rahman
+ ![Cover](https://cdn.sanity.io/images/ymxgha9c/production/227c6f71c359341b4b02d929c0f85b5761c56b72-750x191.png?w=1920&q=75&fit=clip&auto=format)
 
- ![Cover](https://cdn.sanity.io/images/ymxgha9c/production/67e13847a34fd31d15192fb3b1755b958c47e8a7-1584x396.png?w=3840&q=75&fit=clip&auto=format)
+# ARFIN NOOR RAHMAN
+## FRONT END DEVELOPER
 
-## 👨‍💻 Frontend Developer 
+📞 Phone: +8801739673620 | ✉️ Email: arfinnoorrahman12@gmail.com
+🌐 Portfolio: [www.arfinsplanet.com](https://www.arfinsplanet.com)
+📦 GitHub: [github.com/arfin-web](https://github.com/arfin-web)
+💼 LinkedIn: [linkedin.com/in/arfinnoorrahman](https://www.linkedin.com/in/arfinnoorrahman)
+🏠 Location: Sector 10, Uttara, Dhaka, Bangladesh
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arfinnoorrahman-blue.svg)]([www.linkedin.com/in/arfinnoorrahman](https://www.linkedin.com/in/arfinnoorrahman))
-[![Portfolio](https://img.shields.io/badge/Portfolio-arfinsplanet.com-green.svg)]([https://www.arfinsplanet.com](https://arfins-planet.vercel.app/))
+## PROFILE
+### Dynamic Frontend Developer with a relentless drive to design and
+develop captivating web interfaces, leveraging creativity and precision
+to consistently exceed expectations and enhance user engagement.
 
----
+### CORE SKILLS
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap5
+- Tailwind CSS
+- React.js
+- Redux Toolkit
+- TypeScript
+- Next.js
+- React Native
+- Daisy UI
+- NextUI
+- Shadcn UI
+- Firebase
+- NextAuth
+- Clerk Auth
 
-## Summary
-
-🚀 Results-driven Frontend Developer with a passion for creating visually stunning and user-friendly web interfaces. Skilled in HTML5, CSS3, JavaScript, React.js, and Next.js. Experienced in collaborating with cross-functional teams to deliver exceptional projects. Seeking new opportunities to leverage skills and contribute to innovative web development.
-
----
-
-## Technical Proficiencies
-
-- Languages: HTML5, CSS3, JavaScript, TypeScript
-- Frameworks: React.js, Next.js
-- Libraries: Bootstrap, Tailwind CSS
-- Version Control: Git, GitHub
-
----
-
-## Professional Experience
-
-**Frontend Developer | NextWebify** \
-*25th May, 2023 - Present*
-
-🔧 Develop visually appealing and user-friendly web interfaces using HTML5, CSS3, JavaScript, React.js, and Next.js. \
-🤝 Collaborate with cross-functional teams to deliver high-quality projects and exceed client expectations. \
-📱 Implement responsive designs to ensure optimal user experiences across devices. \
-⚡ Utilize Bootstrap and Tailwind CSS for efficient and effective frontend development. \
-🔍 Conduct code reviews and provide valuable feedback to optimize code quality and performance.
-
----
-
-## Certifications
-
-- Complete Web Development
-
----
-
-## Key Achievements
-
-🏆 Successfully delivered multiple projects, meeting deadlines and receiving positive client feedback. \
-🚀 Played a key role in optimizing website performance, resulting in faster loading times and enhanced user engagement. \
-🤝 Collaborated effectively with cross-functional teams to ensure seamless project execution and successful outcomes.
-
----
-
-## Skills
-
-- Frontend Development
-- User Interface Design
-- Responsive Web Design
-- Cross-browser Compatibility
+### INTERPERSONAL SKILLS
+- Quick Learner
+- Dedication
+- Team Work
+- Adaptability
 - Problem Solving
-- Team Collaboration
-- Attention to Detail
+- Collaboration
 
----
+### CERTIFICATIONS
+- NEXT LEVEL WEB DEVELOPMENT from Programming Hero
+- COMPLETE WEB DEVELOPMENT from Programming Hero
 
-## Education
+### ACHIEVEMENT
+- Delivered excellence in over 20 local freelance projects
+- Gained Recommendation Letter from Programming Hero
+- Successfully driving client satisfaction and fostering long-lasting partnerships
 
-**Bachelor of Arts in English Literature** \
-*2019-2022 | University of Dhaka: 7 College*
+### LANGUAGES
+- Bangla (Native)
+- English (Comfortable)
 
 ---
 
