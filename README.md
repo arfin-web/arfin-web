@@ -1,4 +1,4 @@
- ![Cover](https://cdn.sanity.io/images/ymxgha9c/production/227c6f71c359341b4b02d929c0f85b5761c56b72-750x191.png?w=1920&q=75&fit=clip&auto=format)
+ ![Cover](https://cdn.sanity.io/images/ymxgha9c/production/6b0ae02a1ee4746294e8fdc7b32934d23b8d52b0-3525x597.png?w=3840&q=75&fit=clip&auto=format)
 
 # ARFIN NOOR RAHMAN
 ## FRONT END DEVELOPER
@@ -10,8 +10,7 @@
 🏠 Location: Sector 10, Uttara, Dhaka, Bangladesh
 
 ## PROFILE
-### Dynamic Frontend Developer with a relentless drive to design and
-develop captivating web interfaces, leveraging creativity and precision
+Dynamic Frontend Developer with a relentless drive to design and develop captivating web interfaces, leveraging creativity and precision
 to consistently exceed expectations and enhance user engagement.
 
 ### CORE SKILLS
