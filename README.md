@@ -32,7 +32,7 @@ Software Developer | Turning Complex Requirements into Elegant Software
 
 ### 🛠️ The Technical Toolbox
 
-| **The Core** | **The Brain (Backend & AI)** | **The Look (UI/UX)** |
+| **The Core** | **The Brain (Backend, State & AI)** | **The Look (UI/UX)** |
 | :--- | :--- | :--- |
 | JavaScript (ES6+) | Node.js / Express.js / Prisma | **Tailwind CSS 4** |
 | TypeScript | Supabase / MongoDB / Postgresql | Shadcn UI / Minimal Animation |
