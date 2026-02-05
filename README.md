@@ -14,7 +14,15 @@
 ---
 
 ### 📖 The Narrative
-I bridge the gap between **clean prose and clean code.** With a background in English Literature and a passion for the Modern JavaScript Stack, I don't just build apps—I craft digital experiences. I specialize in turning complex logic into high-performance, user-centric software.
+Software Developer | Turning Complex Requirements into Elegant Software
+
+​I am a Software Developer driven by the challenge of building seamless, high-performance applications. While my roots are in crafting "pixel-perfect" user journeys, my focus has evolved into engineering complete software solutions that are as functional as they are beautiful.
+
+​Why work with me?
+​User-Centric Engineering: I combine deep frontend knowledge with a software developer’s mindset for logic and efficiency.
+​Scalable Code: I prioritize clean, modular code that is easy to maintain and scale.
+
+​Continuous Evolution: I stay ahead of industry trends to ensure the projects I work on utilize the most efficient tools available.
 
 * 🔭 **Current Mission:** Architecting SaaS & Internal tools at **SEOVoltz**.
 * ⚡ **Specialty:** "Vibe Coding" & building AI-integrated workflows.
