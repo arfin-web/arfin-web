@@ -32,12 +32,13 @@ Software Developer | Turning Complex Requirements into Elegant Software
 
 ### 🛠️ The Technical Toolbox
 
-| **The Core** | **The Brain (AI & Backend)** | **The Look (UI/UX)** |
+| **The Core** | **The Brain (Backend & AI)** | **The Look (UI/UX)** |
 | :--- | :--- | :--- |
-| JavaScript (ES6+) | **Gemini 3 Flash / Vercel AI SDK** | **Tailwind CSS 4** |
-| TypeScript | Supabase / MongoDB | Shadcn UI / Framer Motion |
-| **Next.js (App Router)** | Node.js / Clerk Auth | Material UI / Responsive Design |
-| React.js | Redux Toolkit / Zustand | Accessibility (a11y) |
+| JavaScript (ES6+) | Node.js / Express.js / Prisma | **Tailwind CSS 4** |
+| TypeScript | Supabase / MongoDB / Postgresql | Shadcn UI / Minimal Animation |
+| React.js | Redux Toolkit / Zustand | Material UI |
+| **Next.js (App Router)** | Better-Auth / Clerk Auth | Daisy UI |
+| Tanstack Start | **Gemini 3 Flash / Vercel AI SDK** | Responsive Design |
 
 ---
 
