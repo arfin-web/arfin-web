@@ -53,8 +53,8 @@ Software Developer | Turning Complex Requirements into Elegant Software
 I'm always open to discussing **SaaS Architecture, AI Integration, or React Performance.**
 
 * 💬 **Let's Talk:** [arfinnoorrahman12@gmail.com](mailto:arfinnoorrahman12@gmail.com)
-* 🌐 **Portfolio:** [arfins-planet.vercel.app](https://arfins-planet.vercel.app)
-* 💼 **LinkedIn:** [Arfin Noor Rahman](https://linkedin.com/in/arfin-web)
+* 🌐 **Portfolio:** [arfins-portfolio.com](https://arfins-portfolio.vercel.app/)
+* 💼 **LinkedIn:** [Arfin Noor Rahman](https://www.linkedin.com/in/arfin-noor-rahman/)
 * 📍 **Based in:** Noakhali, Bangladesh
 
 ---
