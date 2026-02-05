@@ -18,7 +18,7 @@ Software Developer | Turning Complex Requirements into Elegant Software
 
 ​I am a Software Developer driven by the challenge of building seamless, high-performance applications. While my roots are in crafting "pixel-perfect" user journeys, my focus has evolved into engineering complete software solutions that are as functional as they are beautiful.
 
-​Why work with me?
+### ​Why work with me?
 ​User-Centric Engineering: I combine deep frontend knowledge with a software developer’s mindset for logic and efficiency.
 ​Scalable Code: I prioritize clean, modular code that is easy to maintain and scale.
 
