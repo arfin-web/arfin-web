@@ -57,6 +57,23 @@ I'm always open to discussing **SaaS Architecture, AI Integration, or React Perf
 * 🌐 **Portfolio:** [arfins-portfolio.com](https://arfins-portfolio.vercel.app/)
 * 💼 **LinkedIn:** [Arfin Noor Rahman](https://www.linkedin.com/in/arfin-noor-rahman/)
 * 📍 **Based in:** Noakhali, Bangladesh
+* 
+---
+
+### 📊 My Digital Footprint
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arfin-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arfin's Stats" height="190px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfin-web&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="190px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arfin-web&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arfin-web&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
 
 ---
 <p align="center">
