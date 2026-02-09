@@ -63,16 +63,19 @@ I'm always open to discussing **SaaS Architecture, AI Integration, or React Perf
 ### 📊 My Digital Footprint
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arfin-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arfin's Stats" height="190px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfin-web&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="190px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arfin-web&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arfin's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arfin-web&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arfin-web&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arfin-web&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arfin-web&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
