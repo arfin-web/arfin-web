@@ -62,7 +62,7 @@ Recent work includes:
 
 * LLM-powered applications
 * AI Agents & Automations
-* FastAPI microservices
+* FastAPI Backends
 * Next.js SaaS platforms
 * Business workflow optimization
 * Product requirement analysis & system design
