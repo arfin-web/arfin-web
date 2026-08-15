@@ -1,4 +1,4 @@
-[![LinkedIn Cover Banner](https://media.licdn.com/dms/image/v2/D5616AQGBYez5n1LyXg/profile-displaybackgroundimage-shrink_350_1400/B56Z7j4.nQH4AU-/0/1781939825336?e=1788393600&v=beta&t=6q0WX7NdVV_YiAXBrCOU7qBcWufJEtuMo-SI3hj_AW4)](https://linkedin.com/in/YOUR_PROFILE_USERNAME)
+![Image](https://0zshcz5m5h.ufs.sh/f/IOxQo9lLbpk5lMZJTqW0OxsLKQS6rwMa9C2GFzYtyco1TEdZ)
 
 # ⚡ Arfin Noor Rahman
 
